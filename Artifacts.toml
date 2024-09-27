@@ -1,0 +1,9 @@
+[[libroot_julia]]
+arch = "x86_64"
+git-tree-sha1 = "2f854aff2a356424448bab45474c262a4a0b330c"
+libc = "glibc"
+os = "linux"
+
+    [[libroot_julia.download]]
+    sha256 = "9d42cb59646a49b9f8190f5dcb294040807f41d84f75ed2d6882761a486e5d86"
+    url = "https://github.com/grasph/libroot_julia_jll/releases/download/libroot_julia-v0.0.1+0/libroot_julia.v0.0.1.x86_64-linux-gnu.tar.gz"
