@@ -27,3 +27,73 @@ os = "linux"
     [[libroot_julia.download]]
     sha256 = "82590a38915c143e4757043494c3b0d0a4afeeb66e5a584e2745b1fcbf8f8993"
     url = "https://github.com/grasph/libroot_julia_jll/releases/download/libroot_julia-v0.0.1+5/libroot_julia.v0.0.1.x86_64-linux-gnu.tar.gz"
+[[libroot_julia]]
+arch = "x86_64"
+git-tree-sha1 = "a9aadd7ccae63ae235bd2022a4559a8a299a63ef"
+julia_version = "1.10.0"
+libc = "glibc"
+os = "linux"
+
+    [[libroot_julia.download]]
+    sha256 = "07cbd3005dab3c0c546021b96e0cc4c58539f28d8f87003a6a3ab114de513648"
+    url = "https://github.com/grasph/libroot_julia_jll/releases/download/libroot_julia-v0.0.1+6/libroot_julia.v0.0.1.x86_64-linux-gnu-julia_version+1.10.0.tar.gz"
+[[libroot_julia]]
+arch = "x86_64"
+git-tree-sha1 = "c87764db7e39afc6b79f4513e4e4c7a303df8470"
+julia_version = "1.11.1"
+libc = "glibc"
+os = "linux"
+
+    [[libroot_julia.download]]
+    sha256 = "17c8119060df6607eca92be5df037cd687914179d2d83d2b716a16c2969d9c55"
+    url = "https://github.com/grasph/libroot_julia_jll/releases/download/libroot_julia-v0.0.1+6/libroot_julia.v0.0.1.x86_64-linux-gnu-julia_version+1.11.1.tar.gz"
+[[libroot_julia]]
+arch = "x86_64"
+git-tree-sha1 = "29dc144b47122db2a17aa680083bbe2020873f4c"
+julia_version = "1.12.0"
+libc = "glibc"
+os = "linux"
+
+    [[libroot_julia.download]]
+    sha256 = "2e6c572c766b2369b5f126ae3e917d891fa525eecacfbabbaee9ff0eb2b774fb"
+    url = "https://github.com/grasph/libroot_julia_jll/releases/download/libroot_julia-v0.0.1+6/libroot_julia.v0.0.1.x86_64-linux-gnu-julia_version+1.12.0.tar.gz"
+[[libroot_julia]]
+arch = "x86_64"
+git-tree-sha1 = "8183ba28a5cf4c2277b624df02c173a109329e76"
+julia_version = "1.6.3"
+libc = "glibc"
+os = "linux"
+
+    [[libroot_julia.download]]
+    sha256 = "7e9a2980462b03dcddebbd001dd891fb5c67ef5670303d4d61305c4f18c8c1f5"
+    url = "https://github.com/grasph/libroot_julia_jll/releases/download/libroot_julia-v0.0.1+6/libroot_julia.v0.0.1.x86_64-linux-gnu-julia_version+1.6.3.tar.gz"
+[[libroot_julia]]
+arch = "x86_64"
+git-tree-sha1 = "5cbc2c77623bedef2e2e715564e09c32f068f4ff"
+julia_version = "1.7.0"
+libc = "glibc"
+os = "linux"
+
+    [[libroot_julia.download]]
+    sha256 = "e9053e208a47942ed99278dc97493939f486999bc1aed25d447ba7cd3bbb3a61"
+    url = "https://github.com/grasph/libroot_julia_jll/releases/download/libroot_julia-v0.0.1+6/libroot_julia.v0.0.1.x86_64-linux-gnu-julia_version+1.7.0.tar.gz"
+[[libroot_julia]]
+arch = "x86_64"
+git-tree-sha1 = "2d5889fbd64f752160e2a0728a241211a11310d5"
+julia_version = "1.8.2"
+libc = "glibc"
+os = "linux"
+
+    [[libroot_julia.download]]
+    sha256 = "abf41870012779b7a835d3bd655300eec77b26862492f245238f0fc65ec003a5"
+    url = "https://github.com/grasph/libroot_julia_jll/releases/download/libroot_julia-v0.0.1+6/libroot_julia.v0.0.1.x86_64-linux-gnu-julia_version+1.8.2.tar.gz"
+[[libroot_julia]]
+arch = "x86_64"
+git-tree-sha1 = "567f41c7f6fc75fc61d496257adb86915f283eca"
+julia_version = "1.9.0"
+libc = "glibc"
+os = "linux"
+
+    [[libroot_julia.download]]
+    sha256 = "838b4c29a4c303555cc6f4eee226bf99d858cf6dc414a55e56da449ce6c0a975"
+    url = "https://github.com/grasph/libroot_julia_jll/releases/download/libroot_julia-v0.0.1+6/libroot_julia.v0.0.1.x86_64-linux-gnu-julia_version+1.9.0.tar.gz"
